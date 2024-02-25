@@ -1,5 +1,5 @@
 ---
-Layout: pages
+Layout: Pages
 Title: About
 ---
 
